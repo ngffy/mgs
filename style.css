@@ -8,6 +8,22 @@ p {
 	padding: 5px;
 	color: white;
 	border: 2px solid seagreen;
+	clear: both;
+}
+
+#codec-top {
+	height: 200px;
+}
+
+.otacon-portrait {
+	float: left;
+	height: 100%;
+	filter: saturate(110%) brightness(65%) hue-rotate(95deg);
+}
+
+.snake-portrait {
+	float: right;
+	height: 100%;
 }
 
 .otacon {
