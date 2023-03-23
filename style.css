@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+}
+
+p {
+	background-color: darkslategray;
+	font-family: sans-serif;
+	padding: 5px;
+	color: white;
+	border: 2px solid seagreen;
+}
+
+.otacon {
+	text-align: start;
+}
+
+.snake {
+	text-align: end;
+}
